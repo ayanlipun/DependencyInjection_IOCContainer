@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection_IOCContainer", "DependencyInjection_IOCContainer\DependencyInjection_IOCContainer.csproj", "{276C4E7E-F3B6-414A-83B4-9A05FF0E9CF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{276C4E7E-F3B6-414A-83B4-9A05FF0E9CF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{276C4E7E-F3B6-414A-83B4-9A05FF0E9CF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{276C4E7E-F3B6-414A-83B4-9A05FF0E9CF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{276C4E7E-F3B6-414A-83B4-9A05FF0E9CF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4033DEAA-7F5F-4B90-8563-C19349AC8C29}
+	EndGlobalSection
+EndGlobal
